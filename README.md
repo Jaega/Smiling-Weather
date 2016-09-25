@@ -1,2 +1,2 @@
-# -Smiling-Weather
+# Smiling-Weather
 This app provides weather service.
